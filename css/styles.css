@@ -2,17 +2,30 @@
     font-family: helvetica, sans-serif;
     max-width: 600px;
     margin: auto;
+    background-color: RGB(255, 255, 191);
+}
+
+.main-menu {
+    text-align: center;
+    padding-top: 50px;
 }
 
 h1 {
     text-align: center;
     margin-bottom: 30px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2, h3 {
     margin-top: 30px;
     margin-bottom: 30px;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+    text-decoration: underline;
 }
 
 h4 {
@@ -29,5 +42,8 @@ h4 {
 .header-image {
     text-align: center;
     margin-top: 30px;
-    margin-bottom:
+}
+
+.final-thoughts {
+    padding-bottom: 50px;
 }
